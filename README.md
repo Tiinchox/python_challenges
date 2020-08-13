@@ -5,4 +5,5 @@ These are different programs I made using Python for the course "The Art of Doin
 - Challenges 1 - 5: Basic Data Types
 - Challenges 6 - 10: Lists
 - Challenges 11 - 15: Iteration
+- Challenges 16 - 20: Conditionals
 
