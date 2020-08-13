@@ -71,10 +71,12 @@ print(f"\tAverage: {new_avg}")
 
 # Store both average in a new list
 avgs = [avg, new_avg]
+diff = max(avgs) - min(avgs)
+diff = round(diff, 2)
 
 # Compare results
 print(f"\nYour new average would be {new_avg} compared to your real average of {avg}!")
-print(f"That is a change of {max(avgs) - min(avgs)} points!")
+print(f"That is a change of {diff} points!")
 
 # Show original grades
 print("\nToo bad your original grades are still the same!")
