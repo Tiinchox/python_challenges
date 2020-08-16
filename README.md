@@ -8,4 +8,5 @@ These are different programs I made using Python for the course "The Art of Doin
 - Challenges 16 - 20: Conditionals
 - Challenges 21 - 25: Dictionaries
 - Challenges 26 - 30: While loop
+- Challenges 31 - 35: Functions
 
